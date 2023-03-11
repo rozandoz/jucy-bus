@@ -37,8 +37,8 @@ jucer_project_settings(
 jucer_project_files("jucy-bus/Source"
 # Compile   Xcode     Binary    File
 #           Resource  Resource
-  x         .         .         "Source/jucy-bus.cpp"
-  .         .         .         "Source/jucy-bus.h"
+  x         .         .         "Source/jucy_bus.cpp"
+  .         .         .         "Source/jucy_bus.h"
 )
 
 jucer_project_module(
@@ -176,3 +176,5 @@ jucer_export_target_configuration(
 )
 
 jucer_project_end()
+
+add_subdirectory(Examples)

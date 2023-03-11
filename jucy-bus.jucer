@@ -4,8 +4,8 @@
               addUsingNamespaceToJuceHeader="0" displaySplashScreen="1" jucerFormatVersion="1">
   <MAINGROUP id="lCWoj6" name="jucy-bus">
     <GROUP id="{948E76C1-CACE-5063-50C2-E5A2D9D73E55}" name="Source">
-      <FILE id="sDT2SQ" name="jucy-bus.cpp" compile="1" resource="0" file="Source/jucy-bus.cpp"/>
-      <FILE id="HgTmKK" name="jucy-bus.h" compile="0" resource="0" file="Source/jucy-bus.h"/>
+      <FILE id="sDT2SQ" name="jucy_bus.cpp" compile="1" resource="0" file="Source/jucy_bus.cpp"/>
+      <FILE id="HgTmKK" name="jucy_bus.h" compile="0" resource="0" file="Source/jucy_bus.h"/>
     </GROUP>
   </MAINGROUP>
   <JUCEOPTIONS JUCE_STRICT_REFCOUNTEDPOINTER="1" JUCE_PLUGINHOST_VST3="1" JUCE_PLUGINHOST_AU="1"/>

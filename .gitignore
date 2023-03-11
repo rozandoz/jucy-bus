@@ -13,4 +13,6 @@ _deps
 Builds/
 JuceLibraryCode/
 
+build/
+
 .DS_Store
