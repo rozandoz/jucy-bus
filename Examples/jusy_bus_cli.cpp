@@ -4,7 +4,9 @@
 
 int main() {
     
-    enumerate_audio_devices();
+    test_run();
+
+    getchar();
 
     return 0;
 }
