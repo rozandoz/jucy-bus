@@ -7,6 +7,7 @@ int main() {
     test_run();
 
     getchar();
+    getchar();
 
     return 0;
 }
